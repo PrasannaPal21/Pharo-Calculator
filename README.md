@@ -1,5 +1,7 @@
 # 🧮 Simple Calculator in Pharo: Model & UI Versions
 
+![UI Output 4](calc4.png)
+
 ## 📌 Introduction
 This repository contains two versions of a simple **Pharo Calculator**:
 1. **Non-UI Version** – A calculator model with a controller, operating via code (ideal for understanding the core logic).
